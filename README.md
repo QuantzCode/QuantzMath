@@ -1,1 +1,1 @@
-# QuantzPythonMath
+# QuantzMath

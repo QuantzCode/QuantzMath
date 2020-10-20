@@ -11,3 +11,7 @@ If you take these brain stretching exercises your foundation will be strong and 
 
 Mathematics is one of the best ways to learn how to code and more, simply use our code as references.
 Currenrly we are trying Python 3, soon we will try other languages.
+
+## Credits 
+1) aayushgenius
+2) NightZan999 

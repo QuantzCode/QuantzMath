@@ -2,7 +2,7 @@
 ## Owners
 This full repository and all of its code is owned by QuantzLab and the collaborators editing this README file. 
 For contributing make sure to read the Terms and Conditions on the QuantzLab website which is in progress. 
-For now simply fork and send hack at either `nigamanth.srivatsan@gmail.com` or `aayushgenius@gmail.com`
+For now simply fork and send hack at either `nigamanth.srivatsan@gmail.com` or `aayushkumargenius@gmail.com`
 Then if we approve you just have to wait and you will also get credit!
 
 ## Reason

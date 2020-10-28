@@ -10,7 +10,7 @@ Many people just watch vids on Youtube saying complete Ruby in 2 hours and they 
 If you take these brain stretching exercises your foundation will be strong and you won't have to relearn the language when a new feature is out!
 
 Mathematics is one of the best ways to learn how to code and more, simply use our code as references.
-Currenrly we are trying Python 3 (and BETA with Java), soon we will try other languages.
+Currenrly we are trying Python 3 and Java, soon we will try other languages.
 
 ## Credits 
 1) aayushgenius

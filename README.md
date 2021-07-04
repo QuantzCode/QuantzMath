@@ -12,11 +12,6 @@ If you take these brain stretching exercises your foundation will be strong and 
 Mathematics is one of the best ways to learn how to code and more, simply use our code as references.
 Currently we are trying Python 3 and Java, soon we will try other languages.
 
-## Next Language List:
-* Ruby (probably)
-* JS (also maybe)
-* C# (depends)
-
 ## Credits 
 1) aayushgenius
 2) NightZan999 

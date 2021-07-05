@@ -4,6 +4,7 @@ from math import ceil, factorial
 
 def pi(precision: int) -> str:
     """
+    (If you are just scrolling and seeing ignore these next few lines please)
     The Chudnovsky algorithm is a fast method for calculating the digits of PI,
     based on Ramanujan’s PI formulae.
     https://en.wikipedia.org/wiki/Chudnovsky_algorithm
@@ -28,6 +29,7 @@ def pi(precision: int) -> str:
     Traceback (most recent call last):
         ...
     ValueError: Undefined for non-natural numbers
+    
     """
 
     if not isinstance(precision, int):

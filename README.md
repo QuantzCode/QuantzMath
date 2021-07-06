@@ -5,6 +5,10 @@ For contributing make sure to read the Terms and Conditions on the QuantzLab web
 For now simply fork and send hack at either `nigamanth.srivatsan@gmail.com` or `aayushkumargenius@gmail.com`
 Then if we approve you just have to wait and you will also get credit!
 
+## About
+This repository's code can be used by anyone and you can use the code given but remember to abide by the license. 
+This is a group of math codes which can be used for mathematical purposes.
+
 ## Reason
 Many people just watch vids on Youtube saying complete Ruby in 2 hours and they learn it. Only to realize their foundation is weak and fragile
 If you take these brain stretching exercises your foundation will be strong and you won't have to relearn the language when a new feature is out!
